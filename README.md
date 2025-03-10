@@ -41,7 +41,7 @@ This project is a **Go** implementation of an operating system simulation, which
 
 ## 🔝 **Top Languages**:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramidisanto&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramidisanto&layout=compact)
 
 ---
 
