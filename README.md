@@ -1,15 +1,24 @@
 # Hi, I'm Ramiro Di Santo 👋
 
-I am a student of **Systems Engineering** at the **National Technological University (UTN)**, currently in my 3rd year of studies. I am passionate about software development and have experience working with various programming paradigms such as **object-oriented**, **logical**, **functional**, and **imperative** programming. I am always looking to learn new technologies and take on challenges that allow me to continue growing as a programmer.
-
+Systems Engineering student at UTN with knowledge in full stack development, including Java, Spring Boot, HTML, CSS, and React, and experience integrating SQL databases. I have advanced English proficiency (bilingual) and am seeking my first professional opportunity to apply and further develop my technical skills in the technology field.
 ---
 
 ### 🔧 **Technologies and Tools I work with**:
 
 - **Languages**: 
-  - `C`, `C++`, `Golang`, `Haskell`, `Prolog`, `Wollok`
+  - `C`, `C++`, `Golang`, `Haskell`, `Prolog`, `Wollok, Java`
 - **Paradigms**: 
   - Object-oriented, functional, logical, and imperative programming
+
+## Skills
+
+- **Programming Languages:** Java, JavaScript, Python, SQL
+- **Frameworks & Libraries:** Spring Boot, React, Javalin
+- **Web Technologies:** HTML5, CSS3, REST APIs
+- **Databases:** MySQL, PostgreSQL
+- **Tools & Platforms:** Git, Docker, Maven, VS Code, IntelliJ IDEA
+- **Methodologies:** Agile, Scrum, Test-Driven Development (TDD)
+- **Languages:** English (Advanced / Bilingual)
 
 ---
 
