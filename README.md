@@ -1,8 +1,8 @@
 # Hi, I'm Ramiro Di Santo 👋
 
-## Summary
+### Summary
 
-Systems Engineering student at UTN with knowledge in full stack development, including Java, Spring Boot, HTML, CSS, and React, and experience integrating SQL databases. I have advanced English proficiency (bilingual) and am seeking my first professional opportunity to apply and further develop my technical skills in the technology field.
+- Systems Engineering student at UTN with knowledge in full stack development, including Java, Spring Boot, HTML, CSS, and React, and experience integrating SQL databases. I have advanced English proficiency (bilingual) and am seeking my first professional opportunity to apply and further develop my technical skills in the technology field.
 ---
 
 ### 🔧 **Technologies and Tools I work with**:
@@ -12,7 +12,7 @@ Systems Engineering student at UTN with knowledge in full stack development, inc
 - **Paradigms**: 
   - Object-oriented, functional, logical, and imperative programming
 
-## Skills
+### Skills
 
 - **Programming Languages:** Java, JavaScript, Python, SQL
 - **Frameworks & Libraries:** Spring Boot, React, Javalin
