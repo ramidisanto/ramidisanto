@@ -16,11 +16,10 @@
 
 - **Programming Languages:** Java, JavaScript, Python, SQL
 - **Frameworks & Libraries:** Spring Boot, React, Javalin
-- **Web Technologies:** HTML5, CSS3, REST APIs
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** MySQL, SQLserver, MongoBD
 - **Tools & Platforms:** Git, Docker, Maven, VS Code, IntelliJ IDEA
 - **Methodologies:** Agile, Scrum, Test-Driven Development (TDD)
-- **Languages:** English (Advanced / Bilingual)
+- **Languages:** Spanish, English (Advanced / Bilingual)
 
 ---
 
