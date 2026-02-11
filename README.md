@@ -1,57 +1,54 @@
-# Hi, I'm Ramiro Di Santo 👋
+# Hola, soy Ramiro Di Santo 👋
 
-### Summary
+Estudiante de 4° año de **Ingeniería en Sistemas de Información** en la UTN Buenos Aires. Me especializo en el desarrollo de software escalable, con un fuerte enfoque en arquitecturas backend, seguridad y observabilidad.
 
-- Systems Engineering student at UTN with knowledge in full stack development, including Java, Spring Boot, HTML, CSS, and React, and experience integrating SQL databases. I have advanced English proficiency (bilingual) and am seeking my first professional opportunity to apply and further develop my technical skills in the technology field.
----
-
-### 🔧 **Technologies and Tools I work with**:
-
-- **Languages**: 
-  - `C`, `C++`, `Golang`, `Haskell`, `Prolog`, `Wollok, Java`
-- **Paradigms**: 
-  - Object-oriented, functional, logical, and imperative programming
-
-### Skills
-
-- **Programming Languages:** Java, JavaScript, Python, SQL
-- **Frameworks & Libraries:** Spring Boot, React, Javalin
-- **Databases:** MySQL, SQLserver, MongoBD
-- **Tools & Platforms:** Git, Docker, Maven, VS Code, IntelliJ IDEA
-- **Methodologies:** Agile, Scrum, Test-Driven Development (TDD)
-- **Languages:** Spanish, English (Advanced / Bilingual)
+Actualmente, busco mi primera experiencia profesional para aportar mis conocimientos técnicos en entornos productivos y seguir evolucionando como desarrollador.
 
 ---
 
-### ⚽ **In my free time**:
-I am very active and play **futsal** in a **federated and competitive team**. This sport has taught me teamwork, discipline, and focus, skills I also apply in my career as a developer.
+## 🚀 Proyectos Destacados
+
+### 1. Metamapa (Java / Spring Boot)
+Plataforma educativa con arquitectura en capas y renderizado **SSR (Thymeleaf + Tailwind)**.
+* **Infraestructura:** Despliegue con **Docker**, implementando **Keycloak** para gestión de identidades y **JWT** para autorización.
+* **Observabilidad:** Configuración de monitoreo profesional con **Prometheus, Grafana, Loki y Zipkin**.
+* **Datos:** Uso de **MySQL**, integración de APIs REST y **GraphQL**.
+
+### 2. E-commerce Full Stack (MERN)
+Aplicación integral de comercio electrónico para gestión de pedidos y productos.
+* **Stack:** Desarrollado con **React (CSR)**, **Node.js (Express)** y **MongoDB**.
+* **Funcionalidad:** Implementación de flujos de carrito, autenticación y ciclos de vida de pedidos.
+
+### 3. Operativos-2024-Go (Golang)
+Simulación de un sistema operativo que interactúa entre módulos de **Kernel, CPU, Filesystem y Memoria**.
+* Enfoque en gestión de memoria, procesos y concurrencia.
 
 ---
 
-### 📬 **Contact me**:
+## 🔧 Tecnologías y Herramientas
 
-- Email: [ramirodisanto05@gmail.com](mailto:ramirodisanto05@gmail.com)
-- 📱 **WhatsApp**: [Click here to message me on WhatsApp](https://wa.me/+5491134752367)  
-- 📸 **Instagram**: [@ramiro_disanto](https://www.instagram.com/ramidisanto)
-
----
-
-## 🚀 **Featured Projects**:
-
-### 1. [Operativos-2024-Go](https://github.com/ramidisanto/tp-operativos-go)
-This project is a **Go** implementation of an operating system simulation, which shows the interaction between four modules: **kernel**, **CPU**, **filesystem**, and **memory**. The project simulates how memory and the filesystem are managed when processes are executed, providing a clear understanding of how the key components of an operating system function.
+* **Backend:** Go, Java (Spring Boot), C, C++, Node.js.
+* **Frontend:** React, HTML5, CSS3 (Tailwind), JavaScript.
+* **Bases de Datos:** MySQL, SQL Server, MongoDB.
+* **DevOps & Herramientas:** Docker, Git, Maven, Grafana, Prometheus.
+* **Otros Paradigmas:** Funcional (Haskell), Lógico (Prolog), Objetos (Wollok).
 
 ---
 
-## 📊 **My Stats**:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramidisanto&show_icons=true&hide_title=true)
-
----
-
-## 🔝 **Top Languages**:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramidisanto&layout=compact)
+## ⚽ Tiempo Libre
+En mi tiempo libre soy jugador de **futsal federado**. El deporte de alta competencia me ha dado herramientas de liderazgo, disciplina y una mentalidad orientada al trabajo en equipo, las cuales traslado día a día a mi formación como ingeniero.
 
 ---
 
+## 📬 Contacto
+
+* **Portfolio:** [ramidisanto.netlify.app](https://ramidisanto.netlify.app/)
+* **LinkedIn:** [linkedin.com/in/ramiro-di-santo](https://www.linkedin.com/in/ramiro-di-santo-241278356/)
+* **Email:** [ramirodisanto05@gmail.com](mailto:ramirodisanto05@gmail.com)
+* **WhatsApp:** [(54) 9 11-3475-2367](https://wa.me/5491134752367)
+
+---
+
+## 📊 GitHub Stats
+![Ramiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramidisanto&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramidisanto&layout=compact&theme=dark&hide_border=true)
