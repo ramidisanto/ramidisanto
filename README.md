@@ -49,6 +49,8 @@ En mi tiempo libre soy jugador de **futsal federado**. El deporte de alta compet
 
 ---
 
-## 📊 GitHub Stats
-![Ramiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramidisanto&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramidisanto&layout=compact&theme=dark&hide_border=true)
+## 📊 Mi Actividad en GitHub
+
+![Stats de Ramiro](https://github-readme-stats.vercel.app/api?username=ramidisanto&show_icons=true&theme=tokyonight&count_private=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ramidisanto&layout=compact&theme=tokyonight)
